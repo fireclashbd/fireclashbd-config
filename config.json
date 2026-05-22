@@ -1,0 +1,48 @@
+{
+    "base_url": "https://shoponhossen.pythonanywhere.com/api",
+    "recipient_number": "01343536892",
+    "carousel_images": [
+        "ic (1).png",
+        "ic (2).png",
+        "ic (3).png"
+    ],
+    "app_stat": {
+        "total_price_distributed": "1K+ BDT",
+        "players": "20+"
+    },
+    "start_title": "স্বাগতম ❤️",
+    "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে সকল নিয়ম ভালোভাবে পড়ে নিন।\n\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n\n🚫 কোনো ধরনের চিটিং বা হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n\n📢 ম্যাচ টাইম ও রুম তথ্য “Joined” সেকশনে পাওয়া যাবে।\n\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা ক্ল্যাশার!",
+    "website": "https://fireclashbd.github.io/",
+    "tiktok": "https://www.tiktok.com/@shopon_hossen_2008",
+    "facebook": "https://www.facebook.com/shoponhossen69/",
+    "whatsapp": "https://whatsapp.com",
+    "telegram": "https://t.me/fireclashbd",
+    "tutorial": {
+        "deposit": "https://youtube.com/",
+        "register": "https://youtube.com/"
+    },
+    "latest_version": "1.0.2",
+    "game_modes": {
+        "LONE_WOLF": {
+            "title": "Lone Wolf",
+            "id": "LONE_WOLF",
+            "tag": "Hot",
+            "image_src": "lone_wolf_mode.jpg",
+            "subtitle": "এক তীব্র Lone Wolf লড়াইয়ে আপনার প্রতিপক্ষের মুখোমুখি হন। আপনার দক্ষতা দেখান, ময়দানে আধিপত্য বিস্তার করুন এবং আকর্ষণীয় পুরস্কার জিতে নিন।"
+        },
+        "KILL_RACE": {
+            "title": "Kill Race",
+            "id": "KILL_RACE",
+            "tag": "Solo",
+            "image_src": "kill_race_mode.jpg",
+            "subtitle": "আপনার প্রতিটি কিলের জন্য পুরস্কৃত হন। আপনি যত বেশি এলিমিনেশন করবেন, আপনার আসল নগদ পুরস্কার তত বড় হবে।"
+        },
+        "ESPORTS": {
+            "title": "E-Sports",
+            "id": "ESPORTS",
+            "tag": "Top",
+            "image_src": "esports_mode.jpg",
+            "subtitle": "আপনার স্কোয়াডের সাথে দলবদ্ধ হয়ে বারমুডা, কালাহারি এবং পারগেটরি—এই ৩টি উত্তেজনাপূর্ণ ম্যাপে প্রতিযোগিতা করুন। প্রতিটি ম্যাচে আধিপত্য বিস্তার করুন এবং প্রমাণ করুন আপনার স্কোয়াডই চূড়ান্ত চ্যাম্পিয়ন।"
+        }
+    }
+}
