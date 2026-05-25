@@ -22,6 +22,7 @@
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
     },
     "latest_version": "1.0.2",
+    "under_maintenance": "We are fixing a bug, please come back again in 4pm",
     "game_modes": {
         "LONE_WOLF": {
             "title": "Lone Wolf",
