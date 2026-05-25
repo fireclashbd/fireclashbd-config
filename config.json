@@ -17,11 +17,13 @@
     "facebook": "https://www.facebook.com",
     "whatsapp": "https://chat.whatsapp.com/HP7oceLeWBd82CNIm3xuA2",
     "telegram": "https://t.me/fireclashbd",
+    "registration_hint_text": "UID and IGN Required eg. `012345678 Black_Flag`",
+    "deposit_text": "1. Open Nagad App.\n2. Tap Send Money",
     "tutorial": {
         "deposit": "https://youtube.com/",
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
     },
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.3",
     "game_modes": {
         "LONE_WOLF": {
             "title": "Lone Wolf",
