@@ -19,7 +19,7 @@
     "telegram": "https://t.me/fireclashbd",
     "discord": "https://discord.gg/VbUvRgE8",
     "registration_hint_text": "UID. IGN",
-    "deposit_text": "৳ ডিপোজিট করার নিয়মাবলী 📱\n\nআপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন:\n\nStep 1 > আপনার Nagad App ওপেন করুন।\nStep 2 > এই নাম্বারে Send Money করুন: 01343536892\nStep 3 > টাকা পাঠানোর পর প্রাপ্ত Transaction ID-টি নির্দিষ্ট বক্সে বসিয়ে দিন।\nStep 4 > নিচে থাকা Deposit  বাটনে ট্যাপ করুন।\n\n⚠️ জরুরী নোট:\n- সর্বনিম্ন ডিপোজিট: ৳১০\n- সর্বোচ্চ ডিপোজিট: ৳৫০০০",
+    "deposit_text": "-> আপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন\n\nStep 1 > আপনার Nagad App ওপেন করুন।\nStep 2 > 01343536892. এই নাম্বারে Send Money করুন\nStep 3 > টাকা পাঠানোর পর প্রাপ্ত Transaction ID-টি নির্দিষ্ট বক্সে বসিয়ে দিন।\nStep 4 > নিচে থাকা Deposit  বাটনে ট্যাপ করুন।\n\n⚠️ জরুরী নোট:\n- সর্বনিম্ন ডিপোজিট: ৳১০\n- সর্বোচ্চ ডিপোজিট: ৳৫০০০",
     "tutorial": {
         "deposit": "https://youtube.com/",
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
