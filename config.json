@@ -7,18 +7,19 @@
         "ic (3).png"
     ],
     "app_stat": {
-        "total_price_distributed": "1K+ BDT",
-        "players": "20+"
+        "total_price_distributed": "1000+ BDT",
+        "players": "25+"
     },
-    "start_title": "স্বাগতম ❤️",
-    "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের  হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n📢 নিজের সকল ম্যাচ Joined সেকশনে পাওয়া যাবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা ক্ল্যাশার!",
+    "start_title": "স্বাগতম 🌹",
+    "start_message": "🔒 আপনার একাউন্টের এক্সেস এডমিনের কাছেও নেই।\n⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের  হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n ✅ টুর্নামেন্ট জয়েন করতে অবশ্যই প্লেয়ার এর UID এবং IGN দিতে হবে।❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
     "website": "https://fireclashbd.github.io/",
-    "tiktok": "https://www.tiktok.com/@fire_clash_bd",
+    "tiktok": "https://www.tiktok.com/@fireclashbd",
     "facebook": "https://www.facebook.com",
     "whatsapp": "https://chat.whatsapp.com/HP7oceLeWBd82CNIm3xuA2",
     "telegram": "https://t.me/fireclashbd",
-    "registration_hint_text": "UID and IGN Required eg. `012345678 Black_Flag`",
-    "deposit_text": "1. Open Nagad App.\n2. Tap Send Money",
+    "discord": "https://discord.gg/VbUvRgE8",
+    "registration_hint_text": "UID. IGN",
+    "deposit_text": "৳ ডিপোজিট করার নিয়মাবলী 📱\n\nআপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন:\n\nStep 1 > আপনার Nagad App ওপেন করুন।\nStep 2 > এই নাম্বারে Send Money করুন: 01343536892\nStep 3 > টাকা পাঠানোর পর প্রাপ্ত Transaction ID-টি নির্দিষ্ট বক্সে বসিয়ে দিন।\nStep 4 > নিচে থাকা Deposit  বাটনে ট্যাপ করুন।\n\n⚠️ জরুরী নোট:\n- সর্বনিম্ন ডিপোজিট: ৳১০\n- সর্বোচ্চ ডিপোজিট: ৳৫০০০",
     "tutorial": {
         "deposit": "https://youtube.com/",
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
