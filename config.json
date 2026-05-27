@@ -20,7 +20,7 @@
     "discord": "https://discord.gg/VbUvRgE8",
     "registration_hint_text": "UID. IGN",
     "search_text_hint": "### 🔍 Tournament Search\n\nIf you want to see any tournament details — whether the tournament is played, open, full, canceled, or even if you did not join it — you can still view it.\n\nSimply enter the Tournament ID here to view all details.",
-    "deposit_text": "### 💰 Deposit Instructions\n\nআপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন:\n\n### Step 1\nআপনার **Nagad App** ওপেন করুন।\n\n### Step 2\nনিচের নাম্বারে **Send Money** করুন:\n\n```text\n01343536892\n```\n\n### Step 3\nটাকা পাঠানোর পর প্রাপ্ত **Transaction ID** টি কপি করুন এবং নির্দিষ্ট বক্সে বসিয়ে দিন।\n\n### Step 4\nনিচে থাকা **Deposit** বাটনে ট্যাপ করুন।\n\n### ⚠️ জরুরী নোট\n- সর্বনিম্ন ডিপোজিট: **৳১০**\n- সর্বোচ্চ ডিপোজিট: **৳৫০০০**\n- ভুল Transaction ID দিলে ডিপোজিট ভেরিফাই নাও হতে পারে।",
+    "deposit_text": "### 💰 Deposit Instructions\n\nআপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন:\n\n### Step 1\nআপনার **Nagad App** ওপেন করুন।\n\n### Step 2\nনিচের নাম্বারে **Send Money** করুন:\n\n```text\n01343536892\n```\n\n### Step 3\nটাকা পাঠানোর পর প্রাপ্ত **Transaction ID** টি কপি করুন এবং নির্দিষ্ট বক্সে বসিয়ে দিন।\n\n### Step 4\nনিচে থাকা **Deposit** বাটনে ট্যাপ করুন।\n\n### ⚠️ জরুরী নোট\n- সর্বনিম্ন ডিপোজিট: **৳১০**\n- সর্বোচ্চ ডিপোজিট: **৳৫০০০**",
     "tutorial": {
         "deposit": "https://youtube.com/",
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
