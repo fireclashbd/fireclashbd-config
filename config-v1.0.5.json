@@ -2,9 +2,9 @@
     "base_url": "http://127.0.0.1:8000/api",
     "recipient_number": "01343536892",
     "carousel_images": [
-        "placeholder.png",
-        "placeholder.png",
-        "placeholder.png"
+        "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/1ic.jpg",
+        "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/2ic.jpg",
+        "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/3ic.jpg"
     ],
     "start_message": "✅ টুর্নামেন্ট জয়েন করতে অবশ্যই প্লেয়ার এর গেমের UID এবং গেম আইডির নাম ২টাই দিতে হবে। \n⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের  হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
     "website": "https://fireclashbd.github.io/",
@@ -25,21 +25,21 @@
             "title": "Lone Wolf",
             "id": "LONE_WOLF",
             "tag": "Hot",
-            "image_src": "placeholder.png",
+            "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/esports_mode.jpg",
             "subtitle": "এক তীব্র Lone Wolf লড়াইয়ে আপনার প্রতিপক্ষের মুখোমুখি হন। আপনার দক্ষতা দেখান, ময়দানে আধিপত্য বিস্তার করুন এবং আকর্ষণীয় পুরস্কার জিতে নিন।"
         },
         "KILL_RACE": {
             "title": "Kill Race",
             "id": "KILL_RACE",
             "tag": "Solo",
-            "image_src": "placeholder.png",
+            "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/kill_race_mode.jpg",
             "subtitle": "আপনার প্রতিটি কিলের জন্য পুরস্কৃত হন। আপনি যত বেশি এলিমিনেশন করবেন, আপনার আসল নগদ পুরস্কার তত বড় হবে।"
         },
         "ESPORTS": {
             "title": "E-Sports",
             "id": "ESPORTS",
             "tag": "Top",
-            "image_src": "https://github.com/fireclashbd/fireclashbd-config/blob/main/images/esports_mode.jpg",
+            "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/esports_mode.jpg",
             "subtitle": "আপনার স্কোয়াডের সাথে দলবদ্ধ হয়ে বারমুডা, কালাহারি এবং পারগেটরি—এই ৩টি উত্তেজনাপূর্ণ ম্যাপে প্রতিযোগিতা করুন। প্রতিটি ম্যাচে আধিপত্য বিস্তার করুন এবং প্রমাণ করুন আপনার স্কোয়াডই চূড়ান্ত চ্যাম্পিয়ন।"
         }
     }
