@@ -23,12 +23,12 @@
             "title": "About"
         },
         {
-            "des": "others/About",
-            "title": "About"
+            "des": "others/Release_Notes",
+            "title": "Release Notes"
         },
         {
-            "des": "others/About",
-            "title": "About"
+            "des": "others/Privacy_Policy",
+            "title": "Privacy Policy"
         }
     ],
     "tutorial": {
