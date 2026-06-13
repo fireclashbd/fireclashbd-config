@@ -8,7 +8,7 @@
     ],
     "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের  হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
     "website": "https://fireclashbd.github.io/",
-    "tiktok": "https://www.tiktok.com/@fireclashbd",
+    "tiktok": "https://www.tiktok.com/@fire_clash_bd",
     "facebook": "https://www.facebook.com",
     "whatsapp": "https://chat.whatsapp.com/HP7oceLeWBd82CNIm3xuA2",
     "customer_support": "https://t.me/fireclashbd",
@@ -24,7 +24,7 @@
             "title": "Lone Wolf",
             "id": "LONE_WOLF",
             "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/lone_wolf_mode.jpg",
-            "subtitle": "এক তীব্র Lone Wolf লড়াইয়ে আপনার প্রতিপক্ষের মুখোমুখি হন। আপনার দক্ষতা দেখান, ময়দানে আধিপত্য বিস্তার করুন এবং আকর্ষণীয় পুরস্কার জিতে নিন।"
+            "subtitle": "এখানে একটা Lone Wolf ম্যাচ করানো হবে, 1vs1 কিংবা 2vs2। যে জিতবে প্রাইস মানি সে পাবে।"
         },
         "KILL_RACE": {
             "title": "Kill Race",
