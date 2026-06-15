@@ -26,6 +26,12 @@
             "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/lone_wolf_mode.jpg",
             "subtitle": "এখানে একটা Lone Wolf ম্যাচ করানো হবে, 1vs1 কিংবা 2vs2. যে জিতবে Price Money সে পাবে।"
         },
+        "LOSS_TO_WIN": {
+            "title": "Loss To Win",
+            "id": "LOSS_2_WIN",
+            "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/loss_to_win.jpg",
+            "subtitle": "একটি Lone Wolf ম্যাচ করানো হবে যে বা যারা হারবে তারা Price Money পাবে।"
+        },
         "KILL_RACE": {
             "title": "Kill Race",
             "id": "KILL_RACE",
