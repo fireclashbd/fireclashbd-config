@@ -28,7 +28,7 @@
         },
         "LOSS_TO_WIN": {
             "title": "Loss To Win",
-            "id": "LOSS_2_WIN",
+            "id": "LOSS_TO_WIN",
             "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/loss_to_win_mode.jpg",
             "subtitle": "একটি Lone Wolf ম্যাচ করানো হবে যে বা যারা হারবে তারা Price Money পাবে।"
         },
