@@ -20,10 +20,10 @@
     "tutorial": {
         "register": "https://www.youtube.com/watch?v=ssSao42c5_E&t=95s"
     },
-  "default": {
-    "notes": "Hello Long Notes",
-    "rules": "Hello Long Rules",
-  },
+    "default": {
+        "notes": "Hello Long Notes",
+        "rules": "Hello Long Rules"
+    },
     "game_modes": {
         "LONE_WOLF": {
             "title": "Lone Wolf",
