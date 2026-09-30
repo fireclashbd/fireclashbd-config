@@ -1,5 +1,5 @@
 {
-    "base_url": "https://shoponhossen.pythonanywhere.com/api",
+    "base_url": "http://192.168.110.2:8000/api",
     
     "carousel_images": [
         "images/1ic.jpg",
