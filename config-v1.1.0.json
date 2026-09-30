@@ -1,6 +1,6 @@
 {
     "base_url": "https://shoponhossen.pythonanywhere.com/api",
-    "under_maintenance": true,
+    "under_maintenance": "App এর নতুন ভার্সন আসছে এবং যাদের একাউন্ট একমাসের মধ্যে লগইন করা নাই ও একাউন্ট এ কোনো টাকা নাই তাদের একাউন্ট ডিলিট করা হবে।",
     "recipient_number": "01343536892",
     "carousel_images": [
         "images/1ic.jpg",
