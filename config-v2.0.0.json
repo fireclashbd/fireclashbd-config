@@ -1,5 +1,5 @@
 {
-    "base_url": "http://192.168.110.2:8000/api",
+    "base_url": "https://shoponhossen.pythonanywhere.com/api",
     
     "carousel_images": [
         "images/1ic.jpg",
@@ -7,7 +7,7 @@
         "images/3ic.jpg"
     ],
     
-    "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের  হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
+    "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
     "customer_support": "https://t.me/shopon_hossen",
     
     "tiktok": "https://www.tiktok.com/@fire_clash_bd",
@@ -23,8 +23,8 @@
     },
     
     "default": {
-        "notes": "Hello Long Notes",
-        "rules": "Hello Long Rules"
+        "notes": "### Note\n\n* ম্যাচ শুরু হওয়ার 5-15 মিনিট আগে Room ID এবং Password প্রদান করা হবে।\n* কোনো সমস্যা হলে Admin Support এর সাথে যোগাযোগ করুন।\n* কোনো হ্যাকার দেখলে অ্যাডমিনকে ভিডিও প্রমান সহ সেই প্লেয়ারকে রিপোর্ট করতে হবে।\n* Room এ জয়েন না করতে পারলে ভিডিও প্রমাণ অ্যাডমিনকে দেখতে হবে।",
+        "rules": "### Rules\n\n* Room এ নিজের টিমমেট বাদে বাইরের player invite করলে তার account ban করা হবে।\n* কোনো ধরনের hack, cheat, script বা unfair advantage ব্যবহার সম্পূর্ণ নিষিদ্ধ।\n* ম্যাচ চলাকালীন rage quit করলে disqualified ধরা হবে।\n* Toxic behavior বা abusive language গ্রহণযোগ্য নয়।\n* Admin decision will be final."
     },
     
     "game_modes": {
