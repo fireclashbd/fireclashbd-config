@@ -6,13 +6,13 @@
     "title": "JOIN NOW",
     "subtitle": "Enjoy Exclusive Offers, Tournaments, Events ETC."
   },
-  "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
+  "start_message": "⚠️ টুর্নামেন্টে অংশ নেওয়ার আগে Description থেকে সকল নিয়ম ভালোভাবে পড়ে নিন।\n\n💰 জয়ী হলে প্রাইজ মানি নির্ধারিত সময়ের মধ্যে প্রদান করা হবে।\n\n🚫 নিজে বা নিজের টিমমেট কোনো ধরনের হ্যাক ব্যবহার করলে অ্যাকাউন্ট ব্যান করা হবে।\n\n❤️ ধন্যবাদ আমাদের সাথে থাকার জন্য, শুভকামনা!",
   "customer_support": "https://t.me/shopon_hossen",
   "tiktok": "https://www.tiktok.com/@fire_clash_bd",
   "website": "https://fireclashbd.github.io/",
   "telegram": "https://t.me/fireclashbd",
   "deposit_text_nagad": "### 💰 Deposit Instructions\n\nআপনার অ্যাকাউন্টে টাকা যোগ করতে নিচের ধাপগুলো অনুসরণ করুন:\n\n### Step 1\nআপনার **Nagad App** ওপেন করুন।\n\n### Step 2\n**01343536892** এই নাম্বারে যত টাকা ডিপোজিট করবেন তত টাকা **Send Money** করুন:\n\n### Step 3\nটাকা পাঠানোর পর প্রাপ্ত **Transaction ID** টি কপি করুন এবং নির্দিষ্ট বক্সে বসিয়ে দিন।\n\n### Step 4\nনিচে থাকা **Deposit** বাটনে ট্যাপ করুন।\n\n### ⚠️ জরুরী নোট\n- সর্বনিম্ন ডিপোজিট: **৳১০**\n- সর্বোচ্চ ডিপোজিট: **৳৫০০০**",
-  "deposit_text_bkash": "### 🔴🔴🔴 এখনো বিকাশ অ্যাড করা হয়নি। এটা খুব শীগ্রই অ্যাড করা হবে। অনুগ্রহ করে কেউ বিকাশ এ টাকা পাঠাবেন না।",
+  "deposit_text_bkash": "### 🔴 এখনো বিকাশ অ্যাড করা হয়নি। এটা খুব শীগ্রই অ্যাড করা হবে। অনুগ্রহ করে কেউ বিকাশ এ টাকা পাঠাবেন না।",
   "latest_version": "2.1.0",
   "default": {
     "notes": "### Note\n\n* ম্যাচ শুরু হওয়ার 5-15 মিনিট আগে Room ID এবং Password প্রদান করা হবে।\n* কোনো সমস্যা হলে Admin Support এর সাথে যোগাযোগ করুন।\n* কোনো হ্যাকার দেখলে অ্যাডমিনকে ভিডিও প্রমান সহ সেই প্লেয়ারকে রিপোর্ট করতে হবে।\n* Room এ জয়েন না করতে পারলে ভিডিও প্রমাণ অ্যাডমিনকে দেখতে হবে।",
@@ -22,26 +22,30 @@
     "LOSS_TO_WIN": {
       "title": "Loss To Win",
       "id": "LOSS_TO_WIN",
-      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/loss_to_win_mode.jpg",
-      "subtitle": "1vs1"
+      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/v2.1.0/loss to win.jpg",
+      "subtitle": "1vs1",
+      "row": 1
     },
     "LONE_WOLF": {
       "title": "Lone Wolf",
       "id": "LONE_WOLF",
-      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/lone_wolf_mode.jpg",
-      "subtitle": "1vs1 - 2vs2"
+      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/v2.1.0/lone wolf.jpg",
+      "subtitle": "1vs1 - 2vs2",
+      "row": 1
     },
     "KILL_RACE": {
       "title": "Solo Tour",
       "id": "KILL_RACE",
-      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/kill_race_mode.jpg",
-      "subtitle": "Solo - Barmuda"
+      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/v2.1.0/solo tour.jpg",
+      "subtitle": "Solo - Barmuda",
+      "row": 2
     },
     "ESPORTS": {
       "title": "E-Sports",
       "id": "ESPORTS",
-      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/esports_mode.jpg",
-      "subtitle": "Squad - 6 Match"
+      "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/v2.1.0/esports.jpg",
+      "subtitle": "Squad - 6 Match",
+      "row": 3
     }
   }
 }
