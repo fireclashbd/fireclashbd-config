@@ -33,9 +33,9 @@
       "subtitle": "1vs1 - 2vs2",
       "row": 1
     },
-    "KILL_RACE": {
+    "SOLO_TOUR": {
       "title": "Solo Tour",
-      "id": "KILL_RACE",
+      "id": "SOLO_TOUR",
       "image_src": "https://raw.githubusercontent.com/fireclashbd/fireclashbd-config/main/images/v2.1.0/solo tour.jpg",
       "subtitle": "Solo - Barmuda",
       "row": 2
